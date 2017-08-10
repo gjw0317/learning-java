@@ -10,8 +10,9 @@ public class Base {
             return;
         }
         for (T t: array) {
-            System.out.println(t);
+            System.out.print(t + "\t");
         }
+        System.out.println();
     }
 
     public static <T> void swap(T[] array, int firstIndex, int secondIndex) {
