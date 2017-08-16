@@ -7,25 +7,16 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/study/enumClass/EnumTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/src/main/java/kafka/KafkaConsumerTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/src/main/java/kafka/KafkaProducerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_10_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_10_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20080701.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/src/main/java/kafka/Practice.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/test/Practice.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/study/thread/ThreadByCallable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/practice/study/tree/Traversal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/practice/Objects/TreeNode.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/study/sort/UserClass.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/.idea/encodings.xml" />
@@ -80,13 +71,17 @@
       <change type="DELETED" beforePath="D:\files\GIT\src\main\webapp\pages\index\index.css" afterPath="" />
       <change type="DELETED" beforePath="D:\files\GIT\src\main\webapp\pages\index\index.html" afterPath="" />
       <change type="DELETED" beforePath="D:\files\GIT\src\test\java\testcase\Base64Test.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/practice/base/DataGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/com/practice/base/DataGenerator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../imglib/src/main/java/com/ggsmida/controller/MainController.java" afterPath="$PROJECT_DIR$/../imglib/src/main/java/com/ggsmida/controller/MainController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../imglib/.idea/artifacts/imglib_war_exploded.xml" afterPath="$PROJECT_DIR$/../imglib/.idea/artifacts/imglib_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../imglib/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/../imglib/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../imglib/pom.xml" afterPath="$PROJECT_DIR$/../imglib/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../practice/pom.xml" afterPath="$PROJECT_DIR$/../practice/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../practice/practice.iml" afterPath="$PROJECT_DIR$/../practice/practice.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../imglib/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../imglib/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MOVED" beforePath="D:\files\GIT\practice\src\main\java\com\ggsmida\base\Constant.java" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/base/Constant.java" />
       <change type="MOVED" beforePath="D:\files\GIT\practice\src\main\java\com\ggsmida\practice\DateTime.java" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/test/DateTime.java" />
       <change type="MOVED" beforePath="D:\files\GIT\practice\src\main\java\com\ggsmida\study\reflect\ActionInterface.java" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/study/reflect/ActionInterface.java" />
@@ -123,9 +118,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -135,19 +128,56 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/study/sort/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2486911">
+            <state vertical-scroll-proportion="0.0">
               <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Traversal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/study/tree/Traversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.34816754">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/Objects/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/base/DataGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -162,7 +192,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -179,11 +209,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/practice/study/DataType/TypeInitValue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practice/study/concurrent/Concurrent.java" />
         <option value="$PROJECT_DIR$/src/main/resources/for_sort.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/practice/base/DataGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practice/base/Base.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practice/study/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practice/study/sort/HeapSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practice/study/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practice/base/DataGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practice/Objects/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practice/study/tree/Traversal.java" />
       </list>
     </option>
   </component>
@@ -512,7 +544,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -675,7 +707,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sort" />
+              <option name="myItemId" value="tree" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -705,11 +737,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reflect" />
+              <option name="myItemId" value="Objects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -745,8 +773,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -772,27 +800,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HeapSort">
-    <configuration default="false" name="BigRootHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.practice.study.heap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.practice.study.heap.BigRootHeap" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="learning-java" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Traversal">
     <configuration default="false" name="DataGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -861,6 +869,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.practice.study.sort.HeapSort" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="learning-java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Traversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.practice.study.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.practice.study.tree.Traversal" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1293,19 +1321,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BigRootHeap" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DataGenerator" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BubbleSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.QuickSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.HeapSort" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DataGenerator" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BubbleSort" />
+      <item index="2" class="java.lang.String" itemvalue="Application.QuickSort" />
+      <item index="3" class="java.lang.String" itemvalue="Application.HeapSort" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Traversal" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.HeapSort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BubbleSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.QuickSort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DataGenerator" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BigRootHeap" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Traversal" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DataGenerator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HeapSort" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BubbleSort" />
+        <item index="4" class="java.lang.String" itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -1321,12 +1349,13 @@
       <workItem from="1499069211168" duration="801000" />
       <workItem from="1499752476207" duration="2649000" />
       <workItem from="1501827329734" duration="4079000" />
-      <workItem from="1502335029714" duration="8085000" />
+      <workItem from="1502335029714" duration="8250000" />
+      <workItem from="1502849529958" duration="4432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18083000" />
+    <option name="totallyTimeSpent" value="22680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1351,7 +1380,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30668843" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1364,7 +1393,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1372,6 +1403,16 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/study/sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1658,21 +1699,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/base/DataGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/study/reflect/ActionInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1688,7 +1718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1704,7 +1733,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1712,16 +1743,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/study/sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/study/sort/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/Objects/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2486911">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/base/DataGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/study/tree/Traversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34816754">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
