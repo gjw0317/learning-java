@@ -15,8 +15,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/src/main/java/kafka/Practice.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/test/Practice.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/study/thread/ThreadByCallable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/practice/study/tree/Traversal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/practice/Objects/TreeNode.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/study/sort/UserClass.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kafka/.idea/encodings.xml" />
@@ -71,17 +69,13 @@
       <change type="DELETED" beforePath="D:\files\GIT\src\main\webapp\pages\index\index.css" afterPath="" />
       <change type="DELETED" beforePath="D:\files\GIT\src\main\webapp\pages\index\index.html" afterPath="" />
       <change type="DELETED" beforePath="D:\files\GIT\src\test\java\testcase\Base64Test.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/practice/base/DataGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/com/practice/base/DataGenerator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../imglib/src/main/java/com/ggsmida/controller/MainController.java" afterPath="$PROJECT_DIR$/../imglib/src/main/java/com/ggsmida/controller/MainController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../imglib/.idea/artifacts/imglib_war_exploded.xml" afterPath="$PROJECT_DIR$/../imglib/.idea/artifacts/imglib_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../imglib/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/../imglib/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../imglib/pom.xml" afterPath="$PROJECT_DIR$/../imglib/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../practice/pom.xml" afterPath="$PROJECT_DIR$/../practice/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../practice/practice.iml" afterPath="$PROJECT_DIR$/../practice/practice.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../imglib/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../imglib/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MOVED" beforePath="D:\files\GIT\practice\src\main\java\com\ggsmida\base\Constant.java" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/base/Constant.java" />
       <change type="MOVED" beforePath="D:\files\GIT\practice\src\main\java\com\ggsmida\practice\DateTime.java" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/test/DateTime.java" />
       <change type="MOVED" beforePath="D:\files\GIT\practice\src\main\java\com\ggsmida\study\reflect\ActionInterface.java" afterPath="$PROJECT_DIR$/../practice/src/main/java/com/practice/study/reflect/ActionInterface.java" />
@@ -150,8 +144,8 @@
       <file leaf-file-name="Traversal.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/study/tree/Traversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34816754">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.5968586">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1350,12 +1344,12 @@
       <workItem from="1499752476207" duration="2649000" />
       <workItem from="1501827329734" duration="4079000" />
       <workItem from="1502335029714" duration="8250000" />
-      <workItem from="1502849529958" duration="4432000" />
+      <workItem from="1502849529958" duration="5030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22680000" />
+    <option name="totallyTimeSpent" value="23278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1370,7 +1364,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952693" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1778,8 +1772,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/study/tree/Traversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34816754">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.5968586">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
